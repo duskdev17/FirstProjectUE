@@ -16,7 +16,6 @@
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/SpanishPavement_basecolor.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/SpanishPavement_normal.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/SpanishPavement_Roughness.uasset",
-				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/M_SpanishPavement.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/MI_SpanishPavement_Inst.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/M_MasterMaterial.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/WoodCrate.uasset",
@@ -25,8 +24,11 @@
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/WoodCrate_MetallicRoughnessOcclusion.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/WoodCrate_Normal.uasset",
 				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/WoodCrate_Roughness.uasset",
-				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/MI_WoodenCrate.uasset",
-				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset"
+				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/WoodenCrate/MI_WoodenCrate.uasset",
+				"E:/UnrealEngineProjects/FirstProjectUE/Content/LightingExamples/Maps/LightBounce.umap",
+				"E:/UnrealEngineProjects/FirstProjectUE/Content/LightingExamples/Maps/LightBounce_BuiltData.uasset",
+				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/M_SpanishPavement.uasset",
+				"E:/UnrealEngineProjects/FirstProjectUE/Content/MyStuff/MI_WoodenCrate.uasset"
 			]
 		}
 	]
