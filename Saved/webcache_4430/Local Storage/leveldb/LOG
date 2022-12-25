@@ -1,2 +1,3 @@
-2022/12/24-12:24:57.476 363c Creating DB E:/UnrealEngineProjects/FirstProjectUE/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2022/12/24-12:24:57.989 363c Reusing MANIFEST E:/UnrealEngineProjects/FirstProjectUE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2022/12/25-20:16:28.764 1bb4 Reusing MANIFEST E:/UnrealEngineProjects/FirstProjectUE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2022/12/25-20:16:28.765 1bb4 Recovering log #3
+2022/12/25-20:16:28.776 1bb4 Reusing old log E:/UnrealEngineProjects/FirstProjectUE/Saved/webcache_4430\Local Storage\leveldb/000003.log 
